@@ -1,5 +1,8 @@
 package com.MOZE;
-
+/**
+ * @author: Mindaugas Ozeraitis
+ * @version: 1.0 13/05/2018
+ */
 public class Main {
 
     public static void main(String[] args) {
